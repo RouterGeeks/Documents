@@ -6,4 +6,7 @@ Routers perform the traffic directing functions on the internet.
 
 == Operation
 
-When multiple routers are used in interconnected networks, the routers can exchange information about destination addresses using a routing protocol {url-router}[ravenous beasts].
+When multiple routers are used in interconnected networks, the routers can exchange information about destination addresses using a routing protocol {url-router}[Router (computing)].
+
+== Notes
+Test IT branch 5/3/21
