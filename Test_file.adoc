@@ -1,0 +1,9 @@
+= What is a router?
+:url-router: https://en.wikipedia.org/wiki/Router_(computing)
+
+A router is a networking device that forwards data packets between computer networks.
+Routers perform the traffic directing functions on the internet.
+
+== Operation
+
+When multiple routers are used in interconnected networks, the routers can exchange information about destination addresses using a routing protocol {url-router}[ravenous beasts].
